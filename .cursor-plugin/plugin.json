@@ -1,0 +1,20 @@
+{
+  "name": "yodeck",
+  "version": "3.6.0",
+  "description": "Connect Cursor to one signed-in Yodeck account to inspect and manage screens, media, playlists, layouts, schedules, workspaces, and access.",
+  "author": {
+    "name": "Flipnode LLC",
+    "email": "support@yodeck.com"
+  },
+  "homepage": "https://www.yodeck.com/",
+  "license": "ISC",
+  "keywords": [
+    "digital-signage",
+    "screens",
+    "media",
+    "playlists",
+    "schedules",
+    "yodeck"
+  ],
+  "logo": "assets/yodeck-icon.svg"
+}
